@@ -10,9 +10,9 @@ References follow the _Harvard referencing style_ ([UCA, s.d.]).
 
 Approx., rounded periods:
 
-- Medieval: 500 - 1400 ([Wikipedia, 2019a], [Swafford, 2017]:3)
-- Renaissance: 1400 - 1600 ([Wikipedia, 2019a], [Swafford, 2017]:13)
-- Baroque: 1600 - 1750 ([Wikipedia, 2019a], [Swafford, 2017]:19)
+- Medieval: 500 - 1400 ([Wikipedia, 2019a]; [Swafford, 2017]:3) or 700 - 1450 ([OCA, 2016]:16)
+- Renaissance: 1400 - 1600 ([Wikipedia, 2019a]; [Swafford, 2017]:13)
+- Baroque: 1600 - 1750 ([Wikipedia, 2019a]; [Swafford, 2017]:19)
 - Classical: 1750 - 1820 ([Wikipedia, 2019a]) or - 1830 ([Swafford, 2017]:57)
 - Romantic: 1780 - 1910  ([Wikipedia, 2019a]) or 1830 - 1900 ([Swafford, 2017]:107)
 - Modernism and beyond ([Swafford, 2017]:193), or simply "post-romantic":
@@ -25,6 +25,9 @@ What happened between 1780 and 1830?: Beethoven!
 
 [GitHub, 2017]: https://github.github.com/gfm/
 GitHub. (2017) _GitHub Flavored Markdown Spec_. At: <https://github.github.com/gfm/> (Accessed on 24 March 2019)
+
+[OCA, 2016]: https://www.oca-student.com/sites/default/files/oca-content/course-pdfs/cg_fdmu_210616_red.pdf
+OCA. (2016) _Foundations Music_ [online] At: <https://www.oca-student.com/sites/default/files/oca-content/course-pdfs/cg_fdmu_210616_red.pdf> (Accessed on 24 March 2019)
 
 [Swafford, 2017]: https://books.google.com/books?id=_KpEvgAACAAJ
 Swafford, J. (2017) _Language of the Spirit_. New York:Basic Books.
