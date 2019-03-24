@@ -6,9 +6,7 @@ References follow the _Harvard referencing style_ ([UCA, s.d.]).
 
 ### Part 1
 
-#### Periods of Music
-
-Approx., rounded periods:
+#### Periods
 
 - Medieval: 500 - 1400 ([Wikipedia, 2019a]; [Swafford, 2017]:3) or 700 - 1450 ([OCA, 2016]:16)
 - Renaissance: 1400 - 1600 ([Wikipedia, 2019a]; [Swafford, 2017]:13)
@@ -19,7 +17,7 @@ Approx., rounded periods:
     - Modern: 1890 - 1930 ([Wikipedia, 2019a])
     - Postmodern: 1930 - present ([Wikipedia, 2019a])
 
-What happened between 1780 and 1830?: Beethoven!
+What happened between 1780 and 1830?: Beethoven
 
 #### Medieval
 
@@ -52,9 +50,15 @@ What happened between 1780 and 1830?: Beethoven!
 
 ##### 1
 
+TODO
+
 ##### 2
 
+TODO
+
 ##### 3
+
+TODO
 
 ### Bibliography
 
