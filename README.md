@@ -23,14 +23,14 @@ What happened between 1780 and 1830?: Beethoven!
 
 ### Bibliography
 
-[GitHub, 2017]: <https://github.github.com/gfm/>
-GitHub. (2017) _GitHub Flavored Markdown Spec_. At: [GitHub, 2017] (Accessed on 24 March 2019)
+[GitHub, 2017]: https://github.github.com/gfm/
+GitHub. (2017) _GitHub Flavored Markdown Spec_. At: <https://github.github.com/gfm/> (Accessed on 24 March 2019)
 
 [Swafford, 2017]: https://books.google.com/books?id=_KpEvgAACAAJ
 Swafford, J. (2017) _Language of the Spirit_. New York:Basic Books.
 
 [UCA, s.d.]: http://webdocs.ucreative.ac.uk/harvard-guide-1547642760012.pdf
-UCA. (s.d.) _UCA Harvard Referencing Guide_. At: [UCA, s.d.] (Accessed on 24 March 2019)
+UCA. (s.d.) _UCA Harvard Referencing Guide_. At: <http://webdocs.ucreative.ac.uk/harvard-guide-1547642760012.pdf> (Accessed on 24 March 2019)
 
 [Wikipedia, 2019a]: https://en.wikipedia.org/wiki/Classical_music
-Wikipedia. (2019a) _Classical music_. At: [Wikipedia, 2019a] (Accessed on 24 March 2019)
+Wikipedia. (2019a) _Classical music_. At: <https://en.wikipedia.org/wiki/Classical_music> (Accessed on 24 March 2019)
