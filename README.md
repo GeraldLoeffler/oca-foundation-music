@@ -23,7 +23,7 @@ What happened between 1780 and 1830?: Beethoven!
 
 ### Bibliography
 
-[GitHub, 2017]: https://github.github.com/gfm/
+[GitHub, 2017]: <https://github.github.com/gfm/>
 GitHub. (2017) _GitHub Flavored Markdown Spec_. At: [GitHub, 2017] (Accessed on 24 March 2019)
 
 [Swafford, 2017]: https://books.google.com/books?id=_KpEvgAACAAJ
