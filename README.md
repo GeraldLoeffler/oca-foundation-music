@@ -21,6 +21,41 @@ Approx., rounded periods:
 
 What happened between 1780 and 1830?: Beethoven!
 
+#### Medieval
+
+- modes, to become scales
+- plainchant, later cantus firmus
+- organum
+- cantus firmus, out of plainchant
+- ars antiqua: 1200s
+- ars nova: 1300s
+- polyphonic
+- Hildegard von Bingen
+- oral tradition
+- lyre
+- troubadour harp
+- minstrels, troubadours, bards, Minnesänger
+
+#### Listening
+
+- description
+- volume
+- tempo
+- voice(s)
+- instrument(s), sound(s)
+- monophonic, polyphonic
+- consonant, dissonant 
+- text
+- purpose
+- emotions
+- similarities 
+
+##### 1
+
+##### 2
+
+##### 3
+
 ### Bibliography
 
 [GitHub, 2017]: https://github.github.com/gfm/
