@@ -4,6 +4,8 @@ This doc is written using _GitHub Flavored Markdown_ ([GitHub, 2017]).
 
 References follow the _Harvard referencing style_ ([UCA, s.d.]).
 
+See also my (eventually) all-encompassing _History of Music_ timeline ([Loeffler, 2019]).
+
 ### Part 1
 
 #### Periods
@@ -64,6 +66,9 @@ TODO
 
 [GitHub, 2017]: https://github.github.com/gfm/
 GitHub. (2017) _GitHub Flavored Markdown Spec_. At: <https://github.github.com/gfm/> (Accessed on 24 March 2019)
+
+[Loeffler, 2019]: https://www.preceden.com/timelines/458162-history-of-music
+Loeffler, G. (2019) _History of Music_. At: <https://www.preceden.com/timelines/458162-history-of-music> (Accessed on 7 April 2019)
 
 [OCA, 2016]: https://www.oca-student.com/sites/default/files/oca-content/course-pdfs/cg_fdmu_210616_red.pdf
 OCA. (2016) _Foundations Music_ [online] At: <https://www.oca-student.com/sites/default/files/oca-content/course-pdfs/cg_fdmu_210616_red.pdf> (Accessed on 24 March 2019)
