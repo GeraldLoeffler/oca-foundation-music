@@ -57,7 +57,29 @@ What happened between 1780 and 1830?: Beethoven.
 - emotions
 - similarities 
 
+### Notation
 
+- pitched vs unpitched instruments
+- bar, barlines
+- semibreve (1/1), minim (1/2), crotchet (1/4), quaver (1/8), semiquaver (1/16)
+- time signatures: quadruple time (4/4, four-four), triple time (3/4, three-four), duple time (2/4, two-four)
+- beaming
+- pitch
+- octave
+- stave, grand stave
+- clefs: treble clef, bass clef
+
+#### Time Signature Examples
+
+- ‘Tritsch Tratsch Polka’ (Johann Strauss): 2/4 (also, a polka is typically in 2/4)
+- ‘Sarabande in D minor’ HWV 437 (Handel): 3/4
+- ‘The Sailor’s Hornpipe’ (Trad.): 2/4, but might as well be 4/4
+- ‘We Will Rock You’ (Queen): 4/4
+- ‘Feed the Birds’ (from Mary Poppins): 3/4
+- ‘Finale from William Tell Overture’ (Rossini): 2/4, but heard as 4/4
+- ‘Libertango’ (Astor Piazzolla): 4/4 (also, a tango is typically in 4/4)
+- ‘The Times They Are A-Changin’ (Bob Dylan): 4/4
+- ‘In the Hall of the Mountain King’ Op.46 (Grieg): 4/4
 
 ## Bibliography
 
