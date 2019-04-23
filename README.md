@@ -1,4 +1,4 @@
-## Listening and Learning Log
+# Listening and Learning Log
 
 This doc is written using _GitHub Flavored Markdown_ ([GitHub, 2017]).
 
@@ -6,9 +6,9 @@ References follow the _Harvard referencing style_ ([UCA, s.d.]).
 
 See also my (eventually) all-encompassing _History of Music_ timeline ([Loeffler, 2019]).
 
-### Part 1
+## Part 1
 
-#### Periods
+### Periods
 
 - Medieval: 500 - 1400 ([Wikipedia, 2019a]; [Swafford, 2017]:3) or 700 - 1450 ([OCA, 2016]:16)
 - Renaissance: 1400 - 1600 ([Wikipedia, 2019a]; [Swafford, 2017]:13)
@@ -19,9 +19,9 @@ See also my (eventually) all-encompassing _History of Music_ timeline ([Loeffler
     - Modern: 1890 - 1930 ([Wikipedia, 2019a])
     - Postmodern: 1930 - present ([Wikipedia, 2019a])
 
-What happened between 1780 and 1830?: Beethoven
+What happened between 1780 and 1830?: Beethoven.
 
-#### Medieval
+### Medieval
 
 - modes, to become scales
 - plainchant, later cantus firmus
@@ -36,7 +36,7 @@ What happened between 1780 and 1830?: Beethoven
 - troubadour harp
 - minstrels, troubadours, bards, Minnesänger
 
-#### Listening
+### Listening
 
 - description
 - volume
@@ -50,19 +50,19 @@ What happened between 1780 and 1830?: Beethoven
 - emotions
 - similarities 
 
-##### 1
+#### 1
 
 TODO
 
-##### 2
+#### 2
 
 TODO
 
-##### 3
+#### 3
 
 TODO
 
-### Bibliography
+## Bibliography
 
 [GitHub, 2017]: https://github.github.com/gfm/
 GitHub. (2017) _GitHub Flavored Markdown Spec_. At: <https://github.github.com/gfm/> (Accessed on 24 March 2019)
