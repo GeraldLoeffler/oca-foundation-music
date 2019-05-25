@@ -81,6 +81,17 @@ What happened between 1780 and 1830?: Beethoven.
 - ‘The Times They Are A-Changin’ (Bob Dylan): 4/4
 - ‘In the Hall of the Mountain King’ Op.46 (Grieg): 4/4
 
+### Assignment 1
+
+[Sibelius file](./files/assignment1.sib) for assignment 1.
+
+This was painstakingly entered using Avid Sibelius 2019.5, using keyboard input as much as possible.
+
+It's disappointing that some elements were not automatically positioned by Sibelius in their optimal location. Examples are:
+
+- The "forte" expression in bar 7 appeared in bar 6, although it is associated with the 1st note in bar 7. I had to re-position it manually.
+- The "Fine" in bar 8 appeared too much to the left, although it is associated with the end-repeat bar line and also right aligned. I had to manually move it to the right.
+
 ## Bibliography
 
 [GitHub, 2017]: https://github.github.com/gfm/
