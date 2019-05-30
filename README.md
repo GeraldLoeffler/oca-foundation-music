@@ -83,14 +83,20 @@ What happened between 1780 and 1830?: Beethoven.
 
 ### Assignment 1
 
-[Sibelius file](./files/assignment1.sib) for assignment 1.
+Assignment 1 is available as a [Sibelius file](./files/assignment1.sib) and a [PDF](./files/assignment1.pdf).
 
 This was painstakingly entered using Avid Sibelius 2019.5, using keyboard input as much as possible.
 
 It's disappointing that some elements were not automatically positioned by Sibelius in their optimal location. Examples are:
 
 - The "forte" expression in bar 7 appeared in bar 6, although it is associated with the 1st note in bar 7. I had to re-position it manually.
-- The "Fine" in bar 8 appeared too much to the left, although it is associated with the end-repeat bar line and also right aligned. I had to manually move it to the right.
+- The "Fine" in bar 8 appeared too much to the left, although it is associated with the end-repeat bar line and also right aligned. I had to manually move it to the right. Ditto for the "D.C. al Fine" in bar 20.
+- The "decrescendo" starting in bar 17 had to be manually shifted to the left to visually start below its first note (the 2nd D in bar 17).
+
+Other remarks:
+
+- The quaver A in bar 12 is part of the slur that ends on that note, as well as being staccato: this seems like a contradiction.
+- It seems like the mezzo piano in bar 9 belongs to the bass stave and not the treble stave, because it's closer to the former than the latter. But when i try to reproduce this in Sibelius then the "mp" shows up below the bass stave. So the closeness of the "mp" to the bass stave seems to be imagined or at least without meaning. But this begs the question: in a grand stave, is it possible to associate dynamics with either exclusively the bass stave, or exclusively the treble stave, or explicitly both staves? If so, what's the difference between the latter two notations?
 
 ## Bibliography
 
