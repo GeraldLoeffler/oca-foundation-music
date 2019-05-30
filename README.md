@@ -96,7 +96,7 @@ It's disappointing that some elements were not automatically positioned by Sibel
 Other remarks:
 
 - The quaver A in bar 12 is part of the slur that ends on that note, as well as being staccato: this seems like a contradiction.
-- It seems like the mezzo piano in bar 9 belongs to the bass stave and not the treble stave, because it's closer to the former than the latter. But when i try to reproduce this in Sibelius then the "mp" shows up below the bass stave. So the closeness of the "mp" to the bass stave seems to be imagined or at least without meaning. But this begs the question: in a grand stave, is it possible to associate dynamics with either exclusively the bass stave, or exclusively the treble stave, or explicitly both staves? If so, what's the difference between the latter two notations?
+- It seems like the mezzo piano in bar 9 belongs to the bass stave and not the treble stave, because in the original score it's closer to the former than the latter. But when i try to reproduce this in Sibelius then the "mp" shows up below the bass stave. So the closeness of the "mp" to the bass stave in the original score seems to be imagined or at least without meaning. But this begs the question: in a grand stave, is it possible to associate dynamics with either exclusively the bass stave, or exclusively the treble stave, or explicitly both staves? If so, what's the visual difference between the latter two notations?
 
 ## Bibliography
 
