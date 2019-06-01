@@ -108,7 +108,14 @@ Project 3 is available as a [Sibelius file](./files/project3.sib).
 
 #### Project 4: Answering Rhythms
 
-TODO
+Project 4 is available as a [Sibelius file](./files/project4.sib).
+
+Remarks:
+
+- It's irritating the the rhythm is played by the same note (B) throughoug, incessantly, unnervingly.
+- I find it hard to define exactly what notes qualify as similar "elements" between question and answer. Particularly since there is only one note, and the available durations are quite limited (essentially crotchets, quavers, semiquavers), and so there is a lot of similarity throughout.
+- I'm not able to hear "answer 3" as a proper answer, it's more a continuation, and it doesn't give closure, despite the closing minim.
+- Answers 1 and 2 do not have that problem, i think.
 
 ### Choosing a Subject for the SSI
 
