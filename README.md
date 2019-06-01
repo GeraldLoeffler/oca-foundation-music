@@ -119,7 +119,13 @@ Remarks:
 
 ### Choosing a Subject for the SSI
 
-TODO
+I suggest to investigate the _development of musical notation of Western art music in the early 20th century_.
+
+In particular, i'm interested in the point at which musical notation first acquired features not previously needed for the encoding of classical and romantic music. I propose to discuss 
+
+- what the properties of post-romantic music were that required new notational elements, 
+- what notational enhancements were consequently introduced, and 
+- which composers made the biggest lasting contribution to this development of musical notation.
 
 ### Assignment 1: Replicating a Piano Piece Using Sibelius
 
