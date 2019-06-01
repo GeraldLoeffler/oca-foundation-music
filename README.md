@@ -10,7 +10,12 @@ See also my (eventually) all-encompassing _History of Music_ timeline ([Loeffler
 
 Index of deliverables:
 
-- [Assignment 1](#assignment-1)
+- [Project 1](#project-1-a-medieval-timeline)
+- [Project 2](#project-2-recognising-features-in-a-score)
+- [Project 3](#project-3-pitch)
+- [Project 4](#project-4-answering-rhythms)
+- [Choosing an SSI subject](#choosing-a-subject-for-the-ssi)
+- [Assignment 1](#assignment-1-replicating-a-piano-piece-using-sibelius)
 
 ### Periods
 
@@ -40,7 +45,11 @@ What happened between 1780 and 1830?: Beethoven.
 - troubadour harp
 - minstrels, troubadours, bards, Minnesänger
 
-#### Instruments
+#### Project 1: A Medieval Timeline
+
+See my [History of Music timeline][Loeffler, 2019].
+
+Instruments:
 
 - Cornett: Wind instrument, conical, wood covered in leather, lips vibrate against cup-like mouthpiece, popular in Renaissance ([Wikipedia, 2005a]).
 - Cornu: Translates simply as "horn"; G-shaped brass instrument of Roman origin ([Wikipedia, 2005b]).
@@ -65,13 +74,17 @@ What happened between 1780 and 1830?: Beethoven.
 
 - pitched vs unpitched instruments
 - bar, barlines
+- notes and rests
 - semibreve (1/1), minim (1/2), crotchet (1/4), quaver (1/8), semiquaver (1/16)
+- dotted: +50%
 - time signatures: quadruple time (4/4, four-four), triple time (3/4, three-four), duple time (2/4, two-four)
 - beaming
 - pitch
 - octave
 - stave, grand stave
 - clefs: treble clef, bass clef
+- tie
+- slur
 
 #### Time Signature Examples
 
@@ -85,7 +98,23 @@ What happened between 1780 and 1830?: Beethoven.
 - ‘The Times They Are A-Changin’ (Bob Dylan): 4/4
 - ‘In the Hall of the Mountain King’ Op.46 (Grieg): 4/4
 
-### Assignment 1
+#### Project 2: Recognising Features in a Score
+
+TODO
+
+#### Project 3: Pitch
+
+TODO
+
+#### Project 4: Answering Rhythms
+
+TODO
+
+### Choosing a Subject for the SSI
+
+TODO
+
+### Assignment 1: Replicating a Piano Piece Using Sibelius
 
 Assignment 1 is available as a [Sibelius file](./files/assignment1.sib) and a [PDF](./files/assignment1.pdf).
 
