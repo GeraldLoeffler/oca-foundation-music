@@ -112,10 +112,10 @@ Project 4 is available as a [Sibelius file](./files/project4.sib).
 
 Remarks:
 
-- It's irritating the the rhythm is played by the same note (B) throughoug, incessantly, unnervingly.
-- I find it hard to define exactly what notes qualify as similar "elements" between question and answer. Particularly since there is only one note, and the available durations are quite limited (essentially crotchets, quavers, semiquavers), and so there is a lot of similarity throughout.
-- I'm not able to hear "answer 3" as a proper answer, it's more a continuation, and it doesn't give closure, despite the closing minim.
-- Answers 1 and 2 do not have that problem, i think.
+- It's irritating the the rhythm is played by the same note (B) throughout, incessantly, unnervingly.
+- I find it hard to define exactly what notes qualify as similar "elements" between question and answer. Particularly since there is only one pitch (B), and the durations used in the questions are quite limited (essentially crotchets, quavers, and semiquavers), and hence there is a lot of apparent similarity throughout.
+- I do not experience "answer 3" as a proper answer, more as a continuation, and it doesn't give closure, despite the closing minim.
+- Answers 1 and 2 do not have that problem, i think, but i couldn't explain why they work better.
 
 ### Choosing a Subject for the SSI
 
