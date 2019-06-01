@@ -8,6 +8,10 @@ See also my (eventually) all-encompassing _History of Music_ timeline ([Loeffler
 
 ## Part 1
 
+Index of deliverables:
+
+- [Assignment 1](#assignment-1)
+
 ### Periods
 
 - Medieval: 500 - 1400 ([Wikipedia, 2001a]; [Swafford, 2017]:3) or 700 - 1450 ([OCA, 2016]:16)
