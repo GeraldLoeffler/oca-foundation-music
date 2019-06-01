@@ -104,7 +104,7 @@ Instruments:
 
 #### Project 3: Pitch
 
-TODO
+Project 3 is available as a [Sibelius file](./files/project3.sib).
 
 #### Project 4: Answering Rhythms
 
