@@ -100,7 +100,7 @@ Instruments:
 
 #### Project 2: Recognising Features in a Score
 
-TODO
+[Annotated score](./files/haydn-sonata-C-major_Hob-XVI-21.png) originally downloaded from IMSLP, cropped ([IMSLP, 2017]).
 
 #### Project 3: Pitch
 
@@ -135,6 +135,9 @@ Other remarks:
 
 [GitHub, 2017]: https://github.github.com/gfm/
 GitHub. (2017) _GitHub Flavored Markdown Spec_. At: <https://github.github.com/gfm/> (Accessed on 24 March 2019)
+
+[IMSLP, 2017]: https://imslp.org/wiki/File:PMLP01677-132_IMSLP457528-PMLP743656-sonaten12hayd_bw.pdf
+IMSLP. (2017) _Keyboard Sonata in C major, Hob.XVI:21 (Haydn, Joseph)_. At: <https://imslp.org/wiki/File:PMLP01677-132_IMSLP457528-PMLP743656-sonaten12hayd_bw.pdf> (Accessed on 1 June 2019)
 
 [Loeffler, 2019]: https://www.preceden.com/timelines/458162-history-of-music
 Loeffler, G. (2019) _History of Music_. At: <https://www.preceden.com/timelines/458162-history-of-music> (Accessed on 7 April 2019)
