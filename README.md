@@ -104,11 +104,11 @@ Instruments:
 
 #### Project 3: Pitch
 
-Project 3 is available as a [Sibelius file](./files/project3.sib).
+Project 3 is available as a [Sibelius file](./files/project3.sib) and a [PDF](./files/project3.pdf).
 
 #### Project 4: Answering Rhythms
 
-Project 4 is available as a [Sibelius file](./files/project4.sib).
+Project 4 is available as a [Sibelius file](./files/project4.sib) and a [PDF](./files/project4.pdf).
 
 Remarks:
 
